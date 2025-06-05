@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "2506051439.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "2506051439"
             }
           }
         ]
@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "00af331521589681",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +176,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd0cf3655d4f075a",
+  "active": "1f2c0f6f1d03cf2e",
   "lastOpenFiles": [
-    "無題のファイル.md"
+    "2506051439.md"
   ]
 }
