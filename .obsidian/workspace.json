@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a8bd9c876214d7a",
+        "id": "f51f566db0c68bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0cf3655d4f075a",
+            "id": "f86e9e05824928b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f2c0f6f1d03cf2e",
+  "active": "f86e9e05824928b3",
   "lastOpenFiles": [
+    "無題のファイル.md",
     "2506051439.md"
   ]
 }
